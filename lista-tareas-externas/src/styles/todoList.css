@@ -1,0 +1,12 @@
+.completedTask{
+    background-color: green;
+    padding: 3px 91px 0px 0px;
+}
+label{
+    width: 175px;
+}
+
+.markAsCompleted{
+    background-color: orange;
+    width: 175px;
+}
